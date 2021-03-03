@@ -1,0 +1,13 @@
+h1{font-size:italic;
+    color:silver
+}
+body{    background-image:url("https://criticalhits.com.br/wp-content/uploads/2020/11/Gojo.jpg");
+}
+p{
+    border: 1px solid red;
+            background: orange;
+            width: 200px;
+            height: 200px;
+            position:absolute;
+            z-index: 1; 
+}
